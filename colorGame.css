@@ -34,7 +34,7 @@ h1 {
 
 #stripe {
     background-color: white;
-    height: 30px;
+    height: 40px;
     text-align: center;
 }
 
@@ -57,6 +57,7 @@ button {
     letter-spacing: 1px;
     font-size: inherit;
     transition: all 0.4s;
+    outline: none;
 }
 
 button:hover {
